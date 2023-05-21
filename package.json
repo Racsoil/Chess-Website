@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/oscarli5365/chess.git"
+    "url": "git+https://github.com/soali3107/chess.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/oscarli5365/chess/issues"
+    "url": "https://github.coms/soali3107/chess/issues"
   },
-  "homepage": "https://github.com/oscarli5365/chess#readme",
+  "homepage": "https://github.com/soali3107/chess#readme",
   "dependencies": {
     "@babel/core": "^7.9.0",
     "@babel/preset-env": "^7.9.0",
